@@ -45,7 +45,7 @@
 [[4]](https://jackssn.com/result/apple2orange/190epochs) Результат работы 
 модели на датасете apple2orange после обучения на 190 эпохах<br/>
 [[5]](https://jackssn.com/datasets/overwatch2csgo.zip) Ссылка на скачивание датасета overwatch2csgo<br/>
-[[6]](https://jackssn.com/result/overwatch2csgo) Ссылка на результат работы модели на "своем датасете"
+[[6]](https://jackssn.com/result/overwatch2csgo) Ссылка на результат работы модели на "своем датасете"<br/>
 [[7]](https://jackssn.com/weights/apple2orange/model_epoch0190.pth) Веса модели apple2orange после 190 эпох
 
 ## Примечание
