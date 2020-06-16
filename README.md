@@ -40,11 +40,13 @@
 
 [[1]](https://github.com/hanyoseob/pytorch-CycleGAN) Проект, взятый за основу, упрощенный и перенесенный в Jypyter Notebook<br/>
 [[2]](https://github.com/bendangnuksung/fortnite-pubg) Проект, который вдохновил на "перерисовку игр"<br/>
-[[3]](https://jackssn.com/result/apple2orange) Результат работы 
-модели на датасете apple2orange после 
-обучения на 90 эпохах<br/>
-[[4]](https://jackssn.com/datasets/overwatch2csgo.zip) Ссылка на скачивание датасета overwatch2csgo<br/>
-[[5]](https://jackssn.com/result/overwatch2csgo) Ссылка на результат работы модели на "своем датасете"
+[[3]](https://jackssn.com/result/apple2orange/90epochs) Результат работы 
+модели на датасете apple2orange после обучения на 90 эпохах<br/>
+[[4]](https://jackssn.com/result/apple2orange/190epochs) Результат работы 
+модели на датасете apple2orange после обучения на 190 эпохах<br/>
+[[5]](https://jackssn.com/datasets/overwatch2csgo.zip) Ссылка на скачивание датасета overwatch2csgo<br/>
+[[6]](https://jackssn.com/result/overwatch2csgo) Ссылка на результат работы модели на "своем датасете"
+[[7]](https://jackssn.com/weights/apple2orange/model_epoch0190.pth) Веса модели apple2orange после 190 эпох
 
 ## Примечание
 
